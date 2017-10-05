@@ -1,3 +1,79 @@
-teste{
-	width: 10px;
+/* Modify */
+.modal {
+	text-align: center;
+	color: #7f8c8d;
+}
+
+/* Style */
+.modal img {
+	background: #ecf0f1;
+	height: 42px;
+	width: 42px;
+	padding: 2px;
+	border-radius: 8px;
+}
+
+.modal span {
+	color: #ecf0f1;
+	padding-right: 5px;
+}
+
+.modal-success .modal-header {
+	background-color: #5cb85c;
+}
+
+.modal-primary .modal-header {
+	background-color: #025aa5;
+}
+
+.modal-warning .modal-header {
+	background-color: #ec971f;
+}
+
+.modal-info .modal-header {
+	background-color: #5bc0de;
+}
+
+.modal-danger .modal-header {
+	background-color: #d9534f;
+} 
+
+.modal-success h1 {
+	color: #5cb85c;
+}
+
+.modal-primary h1 {
+	color: #025aa5;
+}
+
+.modal-warning h1 {
+	color: #ec971f;
+}
+
+.modal-info h1 {
+	color: #5bc0de;
+}
+
+.modal-danger h1 {
+	color: #d9534f;
+} 
+
+.modal-success .modal-content .line-close {
+	background-color: #5cb85c;
+}
+
+.modal-primary .modal-content .line-close {
+	background-color: #025aa5;
+}
+
+.modal-warning .modal-content .line-close {
+	background-color: #ec971f;
+}
+
+.modal-info .modal-content .line-close {
+	background-color: #5bc0de;
+}
+
+.modal-danger .modal-content .line-close {
+	background-color: #d9534f;
 } 
